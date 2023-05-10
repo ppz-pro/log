@@ -1,0 +1,15 @@
+{
+  "name": "@ppzp/log",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "log",
+    "ppz"
+  ],
+  "author": "gy",
+  "license": "Unlicense",
+  "peerDependencies": {
+    "@ppzp/meta": "^0.1.0"
+  }
+}
