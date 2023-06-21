@@ -7,9 +7,6 @@
     "log",
     "ppz"
   ],
-  "author": "gy",
-  "license": "Unlicense",
-  "peerDependencies": {
-    "@ppzp/meta": "^0.1.0"
-  }
+  "author": "ppz",
+  "license": "Unlicense"
 }
